@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907754380684",
+    "firebase_url": "https://remoteconfigtest-fb700.firebaseio.com",
+    "project_id": "remoteconfigtest-fb700",
+    "storage_bucket": "remoteconfigtest-fb700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907754380684:android:bfd592ef9a1906fcea4aa9",
+        "android_client_info": {
+          "package_name": "com.technoidtintin.android.remoteconfigp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907754380684-488p7s82eerhak88ejt5na4tu8vd7g30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndsPLL0V4MaQK04nWYLhxdyizjC-0L7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907754380684-488p7s82eerhak88ejt5na4tu8vd7g30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteConfigP1</string>
+    <string name="dialog_message">A new Version of This app is available. Please Update the App to Continue using our services</string>
+</resources>
